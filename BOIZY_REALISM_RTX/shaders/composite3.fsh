@@ -7,6 +7,7 @@ varying vec2 texcoord;
 uniform sampler2D colortex0;
 uniform sampler2D colortex4;
 uniform sampler2D colortex5;
+uniform sampler2D depthtex0;
 
 /* DRAWBUFFERS:045 */
 
