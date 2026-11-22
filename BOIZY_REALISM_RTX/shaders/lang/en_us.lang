@@ -1,0 +1,92 @@
+profile.LOW=LOW (Performance)
+profile.MEDIUM=MEDIUM
+profile.HIGH=HIGH
+profile.ULTRA=ULTRA
+profile.EXTREME=EXTREME / Cinematic
+
+screen.LIGHTING=Lighting
+screen.REFLECTIONS=Ray Tracing & Reflections
+screen.SHADOWS=Shadows
+screen.WATER=Water
+screen.SKY=Clouds & Sky
+screen.WEATHER=Weather
+screen.MATERIALS=Materials & PBR
+screen.POST=Post Processing
+screen.PERFORMANCE=Performance
+
+option.VOLUMETRIC_LIGHT=Volumetric Light
+option.VOLUMETRIC_LIGHT.comment=Ray-marched light shafts (god rays) using the shadow map.
+option.VL_SAMPLES=Volumetric Samples
+option.RT_GI=Screen-Space GI
+option.RT_GI.comment=One-bounce indirect lighting approximation traced in screen space.
+option.GI_STRENGTH=GI Strength
+option.MIN_LIGHT=Minimum Light
+option.MIN_LIGHT.comment=Base cave brightness so darkness is never fully black.
+option.WARM_BLOCKLIGHT=Warm Blocklight
+option.WARM_BLOCKLIGHT.comment=Torch light gets a warm color temperature.
+option.AUTO_EXPOSURE=Auto Exposure
+option.AUTO_EXPOSURE.comment=Temporally smoothed auto exposure. Turn off to use manual exposure.
+option.EXPOSURE=Exposure
+option.SSAO=Ambient Occlusion
+option.SSAO.comment=Screen-space ambient occlusion.
+
+option.SSR=Screen Space Reflections
+option.SSR.comment=Ray-traced style reflections computed in screen space.
+option.SSR_SAMPLES=Reflection Samples
+option.ROUGH_REFLECTIONS=Rough Reflections
+option.ROUGH_REFLECTIONS.comment=Blurry reflections on semi-rough materials.
+option.REFLECTION_STRENGTH=Reflection Strength
+
+option.shadowMapResolution=Shadow Resolution
+option.shadowDistance=Shadow Distance
+option.SHADOW_SOFTNESS=Shadow Softness
+option.SHADOW_SOFTNESS.comment=PCF filtering radius. 0 = hard shadows.
+option.CONTACT_SHADOWS=Contact Shadows
+option.CONTACT_SHADOWS.comment=Small screen-space shadows for fine detail.
+option.SSS=Subsurface Scattering
+option.SSS.comment=Light transmission through leaves and plants (shadow-map based).
+
+option.WATER_WAVES=Water Waves
+option.WAVE_SPEED=Wave Speed
+option.WATER_REFRACTION=Water Refraction
+option.WATER_REFRACTION.comment=Wave distortion of terrain seen through water.
+option.WATER_CAUSTICS=Water Caustics
+option.WATER_CAUSTICS.comment=Animated sunlight caustics underwater.
+option.WATER_ABSORPTION=Water Absorption
+option.WATER_FOAM=Shoreline Foam
+
+option.VOLUMETRIC_CLOUDS=Volumetric Clouds
+option.CLOUD_QUALITY=Cloud Quality
+option.CLOUD_QUALITY.comment=Low values use a fast 2D cloud layer, high values raymarch true 3D clouds.
+option.CLOUD_DENSITY=Cloud Density
+option.CLOUD_SHADOWS=Cloud Shadows
+option.AURORA=Aurora
+
+option.WET_SURFACES=Wet Surfaces
+option.WET_SURFACES.comment=Wetness increases specular reflections during/after rain.
+option.PUDDLES=Rain Puddles
+option.RAIN_DROPLETS=Screen Rain Drops
+
+option.NORMAL_MAPS=Normal Maps (labPBR)
+option.SPECULAR_MAPS=Specular Maps (labPBR)
+option.POM=Parallax Occlusion Mapping
+option.POM.comment=Requires a labPBR resource pack with height data in the normal map alpha.
+
+option.TAA=Temporal Anti-Aliasing
+option.BLOOM=Bloom
+option.BLOOM_STRENGTH=Bloom Strength
+option.DOF=Depth of Field
+option.DOF_STRENGTH=DOF Strength
+option.MOTION_BLUR=Motion Blur
+option.MOTION_BLUR_STRENGTH=Motion Blur Strength
+option.CHROMATIC_ABERRATION=Chromatic Aberration
+option.VIGNETTE=Vignette
+option.SHARPENING=Sharpening
+option.TONEMAP=Tonemap Operator
+option.TONEMAP.comment=0 = ACES, 1 = Filmic
+value.TONEMAP.0=ACES
+value.TONEMAP.1=Filmic
+option.SATURATION=Saturation
+option.CONTRAST=Contrast
+
+option.ambientOcclusionLevel=Vanilla AO Level
