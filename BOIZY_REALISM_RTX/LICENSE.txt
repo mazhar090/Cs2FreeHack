@@ -1,0 +1,26 @@
+BOIZY REALISM RTX — LICENSE AGREEMENT
+Copyright (c) 2026 Mr op12. All Rights Reserved.
+
+1. WHAT YOU MAY DO
+   - Install and use BOIZY REALISM RTX on your own Minecraft Java 1.21.1 setup (Iris loader).
+   - Record videos and take screenshots using this shaderpack. Please credit "BOIZY REALISM RTX by Mr op12".
+   - Link to the official release page so others download the original.
+
+2. WHAT YOU MAY NOT DO
+   - You may NOT copy, reuse, or take any part of the shader code (GLSL files) into another shaderpack or project.
+   - You may NOT re-upload, republish, or redistribute this pack on any website, launcher, mod platform, Discord, or file host.
+   - You may NOT modify, edit, decompile, rebrand, or publish a "fork"/"edit" of this pack — online or offline.
+   - You may NOT claim this pack, or any part of it, as your own work.
+   - You may NOT sell this pack, include it in paid bundles, or use it commercially.
+
+3. OWNERSHIP
+   All code, structure, and configuration files of BOIZY REALISM RTX are the intellectual property of Mr op12.
+   This license does NOT transfer any ownership rights to you.
+
+4. WARRANTY
+   THE SHADERPACK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Use at your own risk.
+   The author is not responsible for FPS loss, crashes, or hardware strain.
+
+For permission requests (reviews, modpack inclusion, etc.), contact: Mr op12.
+
+By installing BOIZY REALISM RTX you agree to this license.
