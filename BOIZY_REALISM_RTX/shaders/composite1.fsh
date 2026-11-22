@@ -6,8 +6,8 @@
 
 varying vec2 texcoord;
 
+// colortex1 is declared inside rt.glsl (via shading.glsl) — do not redeclare
 uniform sampler2D colortex0;
-uniform sampler2D colortex1;
 
 /* DRAWBUFFERS:0 */
 
